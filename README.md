@@ -92,7 +92,7 @@ Este repo se **genera** desde [nvv-dev/dev-workflow](https://github.com/nvv-dev/
 
 ## Origen
 
-Escrita desde cero por nvvdev. Inspirada en: [anthropics/skills](https://github.com/anthropics/skills) (frontend-design: avoiding default, generic aesthetics).
+Escrita desde cero por nvvdev. Inspirada en: [anthropics/skills](https://github.com/anthropics/skills) (frontend-design: avoiding default, generic aesthetics), [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) (look-and-fix loop with screenshots).
 
 ## Licencia
 
